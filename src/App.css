@@ -1,7 +1,7 @@
 :root
 {
-  --yellow: #F5C32C;
-    --orange : #FCA61F;
+  --yellow: #00308F;
+    --orange : #00308F;
     --black : #242D49;
     --gray : #788097;
     --blueCard : #DDF8FE;
@@ -22,8 +22,8 @@
     color: white;
     font-size: 16px;
     padding: 11px 26px;
-    background: linear-gradient(180deg, #fdc50f 26.71%, #fb982f 99.36%);
-    box-shadow: 0px 20px 24px 2px rgba(251, 161, 40, 0.42);
+    background: linear-gradient(180deg, #00308F 26.71%, #5b4dde 99.36%);
+    box-shadow: 0px 20px 24px 2px rgba(23, 42, 102, 0.42);
 }
 .button:hover{
   background  : white;

@@ -11,7 +11,7 @@ const Work = () => {
     const transition = {duration: 3.5, type: 'spring'}
 
   return (
-    <div className="works">
+    <div className="works" id='Work'>
         <div className="awesome">
             <span>Works for All these</span>
             <span>Brands & Clients</span>

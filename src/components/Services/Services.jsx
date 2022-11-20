@@ -13,7 +13,7 @@ const Services = () => {
     const transition = {duration: 2, type: 'spring'}
 
   return (
-    <div className="services">
+    <div className="services" id='Services'>
 
         {/* {left side} */}
         <div className="awesome">
@@ -46,7 +46,7 @@ const Services = () => {
             style={{left: '-4rem', top: '12rem'}}>
                 <Card emoji = {Glasses}
                 heading = {'Developer'}
-                details = {'Html, Css, JavaScript, React'}
+                details = {'Html, Css, JavaScript, React, aodmmaf'}
                 />
             </motion.div>   
                 {/* {third card} */}
